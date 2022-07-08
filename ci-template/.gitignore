@@ -1,7 +1,7 @@
 dist
 doc
-node_modules/
 coverage/
+node_modules/
 
 # Logs
 logs
